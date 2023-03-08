@@ -26,6 +26,3 @@ When the browser is stretched wide:
 - The rows and columns stretch wider when making the browser window bigger
 - The rows and columns stretch taller when making the browser window smaller
 
-### Notes to self
-- Use minmax
-- Use autofit and autofill
